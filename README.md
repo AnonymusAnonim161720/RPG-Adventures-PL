@@ -1,4 +1,4 @@
-# RPG-aAventures-PL
+# RPG-Adventures-PL
 
 Zbiór krótkich scenariuszy, modułów i narzędzi do papierowych gier RPG.  
 Materiały są proste w prowadzeniu i przygotowane w języku polskim.
