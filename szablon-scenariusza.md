@@ -39,7 +39,7 @@ Różne możliwe zakończenia, w zależności od decyzji graczy:
 ## Uwagi dla MG
 - Wskazówki, jak prowadzić sesję  
 - Jak reagować na nieprzewidziane akcje graczy  
-- Możliwe warianty i trudności (oznacz poziom ★–★★★★★)
+- Możliwe warianty i trudności (oznacz poziom ★☆☆☆☆–★★★★★)
   
   
   
