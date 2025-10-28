@@ -1,5 +1,5 @@
 # Krew, Władza, Kasa,
-**Poziom:** ★★★★☆ (2)  
+**Poziom:** ★★★★☆ (4)  
 **Długość:** 1–2 sesje  
 **Zakres:** śledztwo + dialogi + jedna scena starcia  
 **Wymagania MG:** podstawowa improwizacja
