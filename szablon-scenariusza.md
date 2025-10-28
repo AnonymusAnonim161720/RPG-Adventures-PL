@@ -1,6 +1,6 @@
 # Tytuł scenariusza
 
-##Opis  
+## Opis  
 Poziom: ★☆☆☆☆-★★★★★  
 Długość: ile sesji  
 Zakres: np. śledztwo + dialogi + jedna scena starcia  
