@@ -1,5 +1,11 @@
 # Tytuł scenariusza
 
+##Opis
+Poziom: ★☆☆☆☆-★★★★★
+Długość: ile sesji
+Zakres: np. śledztwo + dialogi + jedna scena starcia
+Wymagania MG: np. podstawowa improwizacja, wysoki poziom impowizacji i opowiadania histori,
+
 ## Streszczenie
 Krótki opis przygody w 2–3 zdaniach.  
 Cel: MG i gracze wiedzą, o czym będzie sesja.
