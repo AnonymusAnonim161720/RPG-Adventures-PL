@@ -23,7 +23,7 @@ Wypis najważniejszych miejsc, które odwiedzą gracze:
 - Istotne elementy/pułapki/skarb  
 
 ## Przebieg sesji (punkty)
-Lista punktów fabularnych lub scen:  
+Lista przykładowych punktów fabularnych lub scen:  
 1. Start  
 2. Pierwsze wyzwanie  
 3. Punkty decyzji i możliwe konsekwencje  
